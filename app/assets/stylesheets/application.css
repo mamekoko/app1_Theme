@@ -17,10 +17,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #333;
 }
 
 body{
-    color:#333;
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 13px;
     margin: 33px;
@@ -53,4 +53,8 @@ h2{
 
 label{
     display: block;
+}
+
+.act{
+    margin-bottom: 10px;
 }
