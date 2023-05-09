@@ -35,6 +35,10 @@ p{
     margin: 33px;
 }
 
+table{
+    color: #333;
+}
+
 th{
     padding-bottom: 5px;
 }
@@ -57,4 +61,8 @@ label{
 
 .act{
     margin-bottom: 10px;
+}
+
+#notice{
+    color: green;
 }
